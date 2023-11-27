@@ -1,5 +1,5 @@
 ---
-title: "YOUR NAME"
+title: "Sophia Rodger"
 about:
   template: trestles  # jolla  trestles  solana  marquee  broadside
   image: img/profile.png
